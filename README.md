@@ -11,6 +11,9 @@ Electronics > https://www.octopuslab.cz/robot-board-page/
 
 Arduino C > https://github.com/octopusengine/octopuslab/tree/master/projects/robot-r01
 
+Robot 03 - Line Follower:
+https://github.com/octopusengine/robot03-line-following
+
 MicroPython > 
 
 MQTT > https://github.com/octopusengine/octopusLAB_mqtt
