@@ -11,6 +11,8 @@ Electronics > https://www.octopuslab.cz/robot-board-page/
 
 Arduino C > https://github.com/octopusengine/octopuslab/tree/master/projects/robot-r01
 
+Robotic competiton video: > https://youtu.be/asZ6CoRPrTg
+
 Robot 03 - Line Follower:
 https://github.com/octopusengine/robot03-line-following
 
