@@ -1,5 +1,4 @@
-# octopus_ROBOT-R01
-robot board and robots
+# octopus_ROBOT-R01 (chassis R01)
 
 ---
 
@@ -9,14 +8,25 @@ Construction > https://www.thingiverse.com/thing:3513640
 
 Electronics > https://www.octopuslab.cz/robot-board-page/
 
-Arduino C > https://github.com/octopusengine/octopuslab/tree/master/projects/robot-r01
+MQTT > https://github.com/octopusengine/octopusLAB_mqtt
 
 Robotic competiton video: > https://youtu.be/asZ6CoRPrTg
 
-Robot 03 - Line Follower:
+---
+
+# Arduino C
+
+## Robot 03 - Line Follower
 https://github.com/octopusengine/robot03-line-following
 
-MicroPython > 
+---
 
-MQTT > https://github.com/octopusengine/octopusLAB_mqtt
+# MicroPython code
+
+## Robin 
+https://github.com/octopuslab-cz/robin
+(OctopusLAB ROBOTboard ESP32 DIY 2-hweel Robot with ultrasonic obstacle detection, oled display, wsled colour lights)
+
+## BLE RC Robot
+https://github.com/octopuslab-cz/ble-rc-robot
 
